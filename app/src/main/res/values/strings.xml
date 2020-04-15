@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hesabe API v2.0 - Demo (Kotlin)</string>
+    <string name="start_payment">Start Payment</string>
+    <string name="hesabe_2_0_demo">Hesabe v2.0</string>
+    <string name="finish">Finish</string>
+</resources>
