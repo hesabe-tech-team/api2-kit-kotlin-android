@@ -11,9 +11,6 @@ import javax.net.ssl.SSLSession
 import javax.net.ssl.TrustManager
 import javax.net.ssl.X509TrustManager
 
-/**
- * Created by Arsalan on 12,April,2020
- */
 object RetrofitClientInstance {
 
     private var retrofit: Retrofit? = null
